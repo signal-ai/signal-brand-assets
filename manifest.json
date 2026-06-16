@@ -1,0 +1,40 @@
+{
+  "version": "2.4.0",
+  "base_url": "https://raw.githubusercontent.com/signal-ai/signal-brand-assets/main/",
+  "folders": {
+    "logos": [
+      "Signal-Logo-red.png",
+      "Signal-Logo-full-colour.png",
+      "Signal-Logo-white.png",
+      "Signal-Logo-mono.png"
+    ],
+    "geometry": [
+      "Geometry-filled-large.png",
+      "Geometry-outlined-large.png",
+      "Graident background-large.png",
+      "Graident background-medium.png"
+    ],
+    "icons": [
+      "Accurate.png", "Affinity_Proximity.png", "AIQ.png", "AI_Powered_Analysis.png",
+      "Analyze.png", "API_Connection.png", "Audit_Management.png", "Battleground_Topics.png",
+      "Blogs_Forums.png", "Broadcast_and_Media.png", "breaking_news.png", "Chatbot.png",
+      "Competitor_Analysis.png", "Corporate_Risk.png", "Customer_Support.png", "Danger.png",
+      "Dashboard.png", "Deep_Dive_Report.png", "Entities.png", "Exec_Briefing.png",
+      "Exhaustive.png", "Fast_Speed.png", "Growth.png", "Highlight_Important.png",
+      "Human_Enrichment.png", "Insightful.png", "Investment_Management.png",
+      "Landmine_Topics.png", "Media_Impact_Report.png", "Media_Newsletter.png",
+      "Monitor.png", "Plan.png", "Podcast.png", "Premium.png", "Published_Media.png",
+      "radar_scan.png", "Reach.png", "Real_Time_Alert.png", "Reputation.png",
+      "Reputation_Report.png", "searching_entities.png", "Sentiment.png",
+      "Social_Content.png", "Social_Media.png", "Structured_Data.png", "Topics.png",
+      "Trends_Trendspotting.png", "Unstructured_Data.png", "Velocity_Topics.png",
+      "Web-Based_Application.png", "White_Space.png"
+    ],
+    "decorative": [
+      "Image-texture-1.jpg", "Image-texture-2.jpg", "Image-texture-3.jpg",
+      "Image-texture-4.jpg", "Image-texture-5.jpg", "Image-texture-6.jpg",
+      "Image-texture-7.jpg", "Image-texture-8.jpg", "Image-texture-9.jpg",
+      "Image-texture-10.jpg"
+    ]
+  }
+}
