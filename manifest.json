@@ -12,7 +12,9 @@
       "Geometry-filled-large.png",
       "Geometry-outlined-large.png",
       "Graident background-large.png",
-      "Graident background-medium.png"
+      "Graident background-medium.png",
+      "Polygon-large.png",
+      "Polygon-small.png"
     ],
     "icons": [
       "Accurate.png", "Affinity_Proximity.png", "AIQ.png", "AI_Powered_Analysis.png",
